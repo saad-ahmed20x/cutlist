@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-wordfilter.py
+cutlist.py
 
 A CLI wordlist/dictionary filter.
 
-Usage examples in README.md
+Usage examples in Usage.md
 """
 
 import sys
@@ -153,3 +153,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
